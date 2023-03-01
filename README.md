@@ -1,4 +1,4 @@
-# Ejercicion de Python + FastApi + MariaDB y Ubuntu 22.04
+# Ejercicio de Python + FastApi + MariaDB y Ubuntu 22.04
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Introduccón
