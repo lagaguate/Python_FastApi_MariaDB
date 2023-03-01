@@ -26,6 +26,27 @@ sudo docker start mysql
 ```sh
 uvicorn app:app --reload
 ```
+4. Actualizar conda y su entorno virtual fast-api
+```sh
+conda update --all -n fast-api
+```
+5. Instalar sqlalchemy
+```sh
+conda install -c conda-forge sqlalchemy --name fast-api
+```
+6. Instalar pydantic
+```sh
+conda install pydantic  -n fast-api
+```
+7. Instalar cryptography
+```sh
+conda install -c anaconda cryptography --name fast-api
+```
+8. Instalar pymysql
+```sh
+conda install -c anaconda pymysql -n fast-api
+```
+
 
 > La guia incluye links para instalar lo necesario
 > por ejemplo: Python, Anaconda, etc.
